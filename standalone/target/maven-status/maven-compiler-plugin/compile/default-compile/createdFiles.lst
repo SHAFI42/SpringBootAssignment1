@@ -1,0 +1,5 @@
+com\amdocs\commonality\ddu\learning\standalone\StandaloneApplication.class
+com\amdocs\commonality\ddu\learning\standalone\controller\ValidateSkills.class
+com\amdocs\commonality\ddu\learning\standalone\model\EmployeeMissingSkillset.class
+com\amdocs\commonality\ddu\learning\standalone\model\EmployeeSkillset.class
+com\amdocs\commonality\ddu\learning\standalone\service\ValidateSkillsApplicationService.class
